@@ -1,7 +1,7 @@
 def add(a,b):
     sum=a+b
     print("Addition = ",sum)
-def multiply(a,b):
+def multiplication(a,b):
     mult=a*b
     print("Multiply = ",mult)
 if __name__ == __"main"__:
@@ -10,4 +10,4 @@ if __name__ == __"main"__:
     print("Enter Second Number")
     y=int(input())
     add(x,y)
-    multiply(x,y)
+    multiplication(x,y)
