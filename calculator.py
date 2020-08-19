@@ -1,7 +1,7 @@
 def add(a,b):
     sum=a+b
     print("Addition = ",sum)
-def substract(a,b):
+def subtract(a,b):
     sub=a-b
     print("Substraction = ",sub)
 if __name__ == __"main"__:
@@ -10,4 +10,4 @@ if __name__ == __"main"__:
     print("Enter Second Number")
     y=int(input())
     add(x,y)
-    sub(x,y)
+    subtract(x,y)
