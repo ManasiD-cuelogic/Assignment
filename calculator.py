@@ -1,6 +1,6 @@
-def multiplication(a,b):
-    mult=a*b
-    print("Multiply = ",mult)
+def add(a,b):
+    sum=a+b
+    print("Addition = ",sum)
 def substract(a,b):
     sub=a-b
     print("Substraction = ",sub)
