@@ -6,8 +6,8 @@ def substract(a,b):
     print("Substraction = ",sub)
 if __name__ == __"main"__:
     print("Enter Fisrt Number")
-    x=int(input))
+    x=abs(int(input)))
     print("Enter Second Number")
-    y=int(input())
+    y=abs(int(input()))
     add(x,y)
     sub(x,y)
