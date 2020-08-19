@@ -4,6 +4,9 @@ def add(a,b):
 def substract(a,b):
     sub=a-b
     print("Substraction = ",sub)
+def divide(a,b)
+    div=a/b
+    print("Division = ",div)
 if __name__ == __"main"__:
     print("Enter Fisrt Number")
     x=abs(int(input)))
@@ -11,3 +14,4 @@ if __name__ == __"main"__:
     y=abs(int(input()))
     add(x,y)
     sub(x,y)
+    div(x,y)
